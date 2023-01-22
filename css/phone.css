@@ -1,0 +1,28 @@
+/* .bttn{
+    display: none;
+}
+.mob-butn{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+    padding: 7px 14px;
+    color: white;
+    background-color: wheat;
+    border-color: rgba(177, 48, 242, 1.0);
+} */
+
+
+/* @media only screen and (max-width:1200px) {
+    .bttn{position: relative;
+        
+        left: 200px;
+        padding: 7px 14px;
+        color: white;
+        border-color: linear-gradient(to top left, rgba(177, 48, 242, 1.0), rgba(94, 41, 155, 1.0));
+        border-color: rgba(177, 48, 242, 1.0);
+
+    }
+    
+} */
+
